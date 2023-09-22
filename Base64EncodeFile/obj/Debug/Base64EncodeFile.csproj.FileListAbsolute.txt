@@ -1,0 +1,7 @@
+C:\Users\diego.tellaroli.VPARATY\Documents\aprendendo\Base64EncodeFile\Base64EncodeFile\bin\Debug\Base64EncodeFile.exe.config
+C:\Users\diego.tellaroli.VPARATY\Documents\aprendendo\Base64EncodeFile\Base64EncodeFile\bin\Debug\Base64EncodeFile.exe
+C:\Users\diego.tellaroli.VPARATY\Documents\aprendendo\Base64EncodeFile\Base64EncodeFile\bin\Debug\Base64EncodeFile.pdb
+C:\Users\diego.tellaroli.VPARATY\Documents\aprendendo\Base64EncodeFile\Base64EncodeFile\obj\Debug\Base64EncodeFile.csproj.AssemblyReference.cache
+C:\Users\diego.tellaroli.VPARATY\Documents\aprendendo\Base64EncodeFile\Base64EncodeFile\obj\Debug\Base64EncodeFile.csproj.CoreCompileInputs.cache
+C:\Users\diego.tellaroli.VPARATY\Documents\aprendendo\Base64EncodeFile\Base64EncodeFile\obj\Debug\Base64EncodeFile.exe
+C:\Users\diego.tellaroli.VPARATY\Documents\aprendendo\Base64EncodeFile\Base64EncodeFile\obj\Debug\Base64EncodeFile.pdb
