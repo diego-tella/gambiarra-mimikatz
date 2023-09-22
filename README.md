@@ -1,0 +1,2 @@
+# gambiarra-mimikatz
+Gambiarra
