@@ -12,18 +12,20 @@ namespace Base64EncodeFile
         static void Main(string[] args)
         {
             Console.WriteLine("Press any key to start");
-
+            Console.ReadKey();
             string path = @"mimikatz.exe";
             try
             {
+                StreamWriter file = new StreamWriter("encripted.exe");
 
                 byte[] readText = File.ReadAllBytes(path);
                 foreach (byte s in readText)
                 {
                     var d = (char)s;
                     Console.Write(convertBase64(d.ToString()));
-                    insertByteInBase64(convertBase64(d.ToString()));
+                    file.WriteLine(convertBase64(d.ToString()));
                 }
+                file.Close();
             }
             catch (IOException e)
             {
@@ -44,12 +46,6 @@ namespace Base64EncodeFile
             {
                 throw;
             }
-        }
-        static void insertByteInBase64(string byteEncoded)
-        {
-            StreamWriter file = new StreamWriter("encripted.exe");
-            file.Write(byteEncoded);
-            file.Close();
         }
     }
 }
